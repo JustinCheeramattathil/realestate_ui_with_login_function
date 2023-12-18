@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyALT5F8Lzy6EcRMqaHFsQjzdtDga1vSO0k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1023500283433</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.realestateUi</string>
+	<key>PROJECT_ID</key>
+	<string>machinetest-f7ac5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>machinetest-f7ac5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1023500283433:ios:2d2b2a94abede0acbf3638</string>
+</dict>
+</plist>
